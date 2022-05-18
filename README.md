@@ -14,12 +14,13 @@ https://colab.research.google.com/drive/1PhjHNONSgL7zjF5fHURGu1F8p8KYPQ4s?usp=sh
 
 ## task 2
 
-2. Есть фотография куска футбольного поля. Необходимо определить, ест.ь ли на фото футболист и стоит ли он или не стоит (сидит/лежит).
+2. Есть фотография куска футбольного поля. Необходимо определить, есть ли на фото футболист и стоит ли он или не стоит (сидит/лежит).
 Задачу можно решить, используя открытые библиотеки.
 
 готовое решение по определению позы человека на основе  модели openvino: https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch
-
+https://colab.research.google.com/drive/1yBxyw_hPqQvrKwgTMSezrA_hyqoNUDUu?usp=sharing
 тестовые фото для запуска: https://drive.google.com/drive/folders/1BIB1lboJPj_jW1BB6qUgpP6E5XAMkora?usp=sharing
 
-запуск модели: https://colab.research.google.com/drive/1yBxyw_hPqQvrKwgTMSezrA_hyqoNUDUu?usp=sharing
+запуск модели: python demo.py --model human-pose-estimation-3d.pth --images 'your_photo'
+примеры результатов по фото для запуска: https://drive.google.com/drive/folders/1tl9Su8kmkh2BTIO_zk2C35bmmcujEA2K?usp=sharing
 
