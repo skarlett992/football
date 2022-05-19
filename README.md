@@ -18,7 +18,6 @@ https://colab.research.google.com/drive/1PhjHNONSgL7zjF5fHURGu1F8p8KYPQ4s?usp=sh
 Задачу можно решить, используя открытые библиотеки.
 
 готовое решение по определению позы человека на основе  модели openvino: https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch
-https://colab.research.google.com/drive/1yBxyw_hPqQvrKwgTMSezrA_hyqoNUDUu?usp=sharing
 тестовые фото для запуска: https://drive.google.com/drive/folders/1BIB1lboJPj_jW1BB6qUgpP6E5XAMkora?usp=sharing
 
 запуск модели: python demo.py --model human-pose-estimation-3d.pth --images 'your_photo'
